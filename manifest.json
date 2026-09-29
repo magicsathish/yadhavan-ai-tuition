@@ -2,14 +2,16 @@
   "name": "Yadhavan AI Tuition",
   "short_name": "Yadhavan AI",
   "description": "TN SSLC Board Examination 2026-27 AI Tuition Learning App",
-  "start_url": "./index.html",
+  "start_url": "https://magicsathish.github.io/yadhavan-ai-tuition/",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0f172a",
   "theme_color": "#1e1b4b",
   "lang": "ta",
-  "categories": ["education"],
+  "categories": [
+    "education"
+  ],
   "icons": [
     {
       "src": "ICONS/icon-192.png",
@@ -29,5 +31,7 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ]
+  ],
+  "id": "YAT",
+  "dir": "auto"
 }
