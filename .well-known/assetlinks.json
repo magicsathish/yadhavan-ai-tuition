@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.magicsathish.twa",
+        "sha256_cert_fingerprints": ["E8:BA:E6:06:98:4D:5F:D5:48:78:DE:93:29:58:1B:41:77:FB:89:54:AC:A3:87:E2:29:90:BA:98:6D:D5:57:4C"]
+      }
+    }]
